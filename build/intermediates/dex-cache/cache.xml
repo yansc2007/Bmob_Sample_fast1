@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\AndroidTestProject\Bmob_Sample_fast1\app\libs\bmob_v3.0.8beta.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e8419e3dc8581a7d5814fe97ad47c4166902aa44">
+        <dex dex="F:\AndroidTestProject\Bmob_Sample_fast1\app\build\intermediates\pre-dexed\debug\bmob_v3.0.8beta_65ae6e19802591eeb76483c55c316cc807ed2eba.jar" />
+    </item>
+
+</items>
